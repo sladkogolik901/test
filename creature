@@ -1,0 +1,6 @@
+creature1 = {
+    attack = 10,
+    hp = 100,
+    shield = 50
+    }
+    
