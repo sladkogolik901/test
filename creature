@@ -1,6 +1,5 @@
 creature1 = {
     attack = 20,
-    hp = 200,
-    shield = 100
+    hp = 300
     }
     
